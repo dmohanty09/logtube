@@ -1,0 +1,11 @@
+Flask~=2.0.1
+Flask-Migrate
+Flask-SQLAlchemy
+Flask-CeleryExt
+celery==4.4.7
+redis==3.5.3
+flower
+youtube_transcript_api
+google-api-python-client
+google-auth-oauthlib
+SQLAlchemy~=1.4.17
